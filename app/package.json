@@ -1,0 +1,21 @@
+{
+    "name": "webamp",
+    "description": "aplicação desktop que roda um instância do projeto Webamp",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+      
+    },
+    "dependencies": {
+      
+    },
+    "window": {
+      "frame": false,
+      "transparent": true,
+      "toolbar": false,
+      "fullscreen": true,
+      "resizable": false,
+      "position": "center",
+      "icon": "img/icon.png"
+    }
+  }
